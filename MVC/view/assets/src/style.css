@@ -1,0 +1,138 @@
+
+.nav-item {
+
+ color: antiquewhite;
+}
+
+.carousel-caption  {
+color: rgb(14, 13, 8);
+
+}
+
+.card{
+    height: 360px;
+}
+
+
+body{
+
+  /* background-image: url("view\assets\src\img\fondo2.jpg") no-repeat;   */
+}
+
+
+
+/* estilos del footer */
+
+.footer {
+    background: #001D4C;
+    padding: 90px 0px 90px 0px;
+    height: 300px;
+}
+
+.footer1{
+    height: 100px;
+    width: 200px;
+}
+
+
+.footer-widget .widget-title {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.footer-widget p, ul,li .footer-widget ul li {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.footer-widget .footer-links a {
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 700;
+    text-decoration: none
+    
+}
+
+.footer-btm {
+    background: #00173E;
+    padding: 20px 0px 10px;
+}
+
+.copyright p ,li{
+    color: rgba(255, 255, 255, 0.8);
+}
+
+
+.list-inline-item:not(:last-child) {
+    margin-right: 0.5rem;
+}
+
+.list-inline-item {
+    display: inline-block;
+}
+.footer-socials a {
+    color: rgba(255, 255, 255, 0.8);
+    margin-right: 10px;
+}
+
+
+/* estilos del contador */
+
+.counter {
+    background: #eee;
+    padding: 60px 0px;
+    background: url(./assets/imagenes/counterbg2.png) no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.ti-thumb-up:before {
+    content: "\e670";
+}
+.ti-heart:before {
+    content: "\e634";
+}
+.ti-stats-up:before {
+    content: "\e673";
+}
+.ti-world:before {
+    content: "\e665";
+}
+
+.counter-item {
+    text-align: center;
+    
+}
+
+
+.counter-item i {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: #ff6984;
+}
+
+.counter-item span {
+    font-size: 60px;
+    line-height: 1;
+    color: #172182;
+}
+
+/* scroll */
+
+.scrollup{
+    width:30px;
+    height:30px;
+    border-radius: 50px;
+    opacity:0.9;
+    position:fixed;
+    bottom:50px;
+    right:20px;
+    display:none;
+    text-indent:-9999px;
+    background:#0cbe1b;
+}
