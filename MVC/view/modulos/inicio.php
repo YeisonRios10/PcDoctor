@@ -30,7 +30,7 @@
                 alt="...">
             <div class="carousel-caption d-none d-md-block ">
                 <h1>contactenos</h1>
-                <p><strong>incuntra información de contacto con nuestro equipo.</strong></p>
+                <p><strong>encuentra información de contacto con nuestro equipo.</strong></p>
             </div>
         </div>
         <div class="carousel-item ">
